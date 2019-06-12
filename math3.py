@@ -1,4 +1,4 @@
-Uinput = int(input("Enter Term: "));
+Uinput = int(input("Enter Term: "))
 
 up = 0
 down = 0
